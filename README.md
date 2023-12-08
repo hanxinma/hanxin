@@ -1,9 +1,11 @@
 <<<<<<< HEAD
 # 拼音或双拼打字词都不用选打字法介绍
 
- [官网地址1 https://hanxinma.gitee.io/](https://hanxinma.gitee.io/)访问 汉心码官网,汉心快打官网
+ [官网地址 https://hanxinma.gitee.io/](https://hanxinma.gitee.io/)访问 汉心码官网,汉心快打官网
 
-  [官网地址2 https://hanxinma.github.io/](https://hanxinma.github.io/)访问hanxinma official website,汉心官网,双拼辅助码官网
+  [官网镜像1站 https://hanxinma.github.io/](https://hanxinma.github.io/)访问hanxinma official website,汉心官网,双拼辅助码官网
+
+  [官网镜像2站 https://hanxinma.gitlab.io/](https://hanxinma.gitlab.io/)访问,汉心官网,双拼辅助码官网
 
 
 #### 汉心码的主要作用就是拼音或双拼打字不用选，打词也可以不用选。并且基本不用学。
@@ -45,9 +47,11 @@ w=亥上亠(文)，l=立 也就是汉字的偏旁部首的读音首字母
 
 [网盘下载地址](http://yaoxiazai.ysepan.com/)
 
-[备用一站下载地址](https://g-zxos5608.coding.net/public/hanxinma/hanxin/git/files)
+[备用一站lab下载地址](https://gitlab.com/hanxinma/hanxin)
 
-[备用二站下载地址](https://github.com/hanxinma/hanxin)
+[备用二站hub下载地址](https://github.com/hanxinma/hanxin)
+
+[备用三站ee下载地址](https://gitee.com/hanxinma/hanxin)
 
 备注：汉心的小狼毫配置文件需要先放到小狼毫输入法用户文件里然后点击重新部署，小狼毫输入法下载地址 https://rime.im
 

@@ -76,8 +76,9 @@ In conclusion, the Hanxin code table is open-source (anyone can import it for us
 
 ---
 
-[官網地址1 https://hanxinma.gitee.io/hanxin ]（ https://hanxinma.gitee.io/hanxin/ ）訪問漢心碼官網，漢心快打官網
+[官網地址1 https://hanxinma.gitee.io/]（ https://hanxinma.gitee.io/ ）訪問漢心碼官網，漢心快打官網
 [官網地址2 https://hanxinma.github.io/ ]（ https://hanxinma.github.io/ ）訪問hanxinma official website，漢心官網，雙拼輔助碼官網
+
 漢心快打輸入法提供以下功能
 ---
 ####漢心打字不用選字，舉例
@@ -85,7 +86,7 @@ In conclusion, the Hanxin code table is open-source (anyone can import it for us
 j=钅，c=寸漢字的偏旁部首的讀音首字母
 ####快打輸入法軟體下載地址
 [漢心快打輸入法軟體下載1地址]（ https://gitee.com/hanxinma/ruanjian/releases/ ）
-[備份下載2地址]（ https://hanxinma.gitee.io/hanxin/ ）
+[備份下載2地址]（ https://hanxinma.gitee.io/ ）
 [備份下載3地址]（ https://github.com/hanxinma/hanxinma ）
 
 漢心嗎支持繁體輔助碼 國體字 正體字 注音 
@@ -132,7 +133,7 @@ chuanglian窗簾雙拼打法idlm，i=ch，d=uang，l=l，m=ian。 這是雙拼�
 總之，漢心碼碼表開源（任何人都可以導入新輸入法使用），輸入法也是用開源的輸入法（任何人都可以維護軟件）。 所以漢心可以做到全方位保護用戶的安全感。
 
 ---
-[公式サイトアドレス1https://hanxinma.gitee.io/hanxin](https://hanxinma.gitee.io/hanxin/）漢心コード公式サイトを訪問し、漢心快打公式サイト
+[公式サイトアドレス1https://hanxinma.gitee.io/hanxin](https://hanxinma.gitee.io/）漢心コード公式サイトを訪問し、漢心快打公式サイト
 [公式サイトアドレス2https://hanxinma.github.io/](https://hanxinma.github.io/）hanxinma official website、漢心公式サイト、ダブルスペル補助コード公式サイトを訪問
 漢心快打入力法は以下の機能を提供する
 ---
@@ -141,7 +142,7 @@ chuanglian窗簾雙拼打法idlm，i=ch，d=uang，l=l，m=ian。 這是雙拼�
 j=ガドリニウム、c=寸漢字の偏旁部首の読み頭文字
 ######早打ち入力方式ソフトウェアダウンロードアドレス
 [漢心快打入力法ソフトウェアダウンロード1アドレス]（https://gitee.com/hanxinma/ruanjian/releases/)
-［バックアップダウンロード2アドレス］（https://hanxinma.gitee.io/hanxin/)
+［バックアップダウンロード2アドレス］（https://hanxinma.gitee.io/)
 ［バックアップダウンロード3アドレス］（https://github.com/hanxinma/hanxinma)
 検索犬QQマイクロソフト百度などの入力法は、コードテーブルを直接導入すれば使用でき、上をダウンロードして（漢心コード***集合パッケージ）、導入後に使用できる。
 ---
@@ -186,7 +187,7 @@ changlianカーテンのダブル綴じ方idlm、i=ch、d=uang、l=l、m=ian。�
 
 ---
 
-[Offizielle Website-Adresse 1] https://hanxinma.gitee.io/hanxin ]（ https://hanxinma.gitee.io/hanxin/ Besuchen Sie die offizielle Website von Hanxin Code, und klicken Sie auf die offizielle Website schnell
+[Offizielle Website-Adresse 1] https://hanxinma.gitee.io/]（ https://hanxinma.gitee.io/ Besuchen Sie die offizielle Website von Hanxin Code, und klicken Sie auf die offizielle Website schnell
 [Offizielle Website-Adresse 2] https://hanxinma.github.io/ ]（ https://hanxinma.github.io/ Besuchen Sie die offizielle Hanxinma-Website, die offizielle Hanxin-Website und die offizielle Shuangpin-Hilfscode-Website
 Die Han Xin Kuai Da Eingabemethode bietet folgende Funktionen:
 ---
@@ -195,7 +196,7 @@ Sie können dieses Zeichen direkt eingeben, ohne Seiten zu blättern, um ein Zei
 J="", c=der Anfangsbuchstabe des Radikals eines Zoll chinesischen Zeichens
 ###Schnelleingabemethode Software Download Adresse
 [Hanxin Quick Input Method Software Download 1 Address]( https://gitee.com/hanxinma/ruanjian/releases/ ）
-[Backup Download 2 Adresse]( https://hanxinma.gitee.io/hanxin/ ）
+[Backup Download 2 Adresse]( https://hanxinma.gitee.io/ ）
 [Backup Download 3-Adresse]( https://github.com/hanxinma/hanxinma ）
 Sogou QQ, Microsoft, Baidu und andere Eingabemethoden können direkt in die Codetabelle importiert werden. Laden Sie das obige (Hanxin Code **-Sammelpaket) herunter und importieren Sie es zur Verwendung.
 ---
@@ -239,7 +240,7 @@ Die Software verwendet Open-Source-Software, und es gibt grundsätzlich immer Le
 Kurz gesagt, die Hanxin-Codetabelle ist Open Source (jeder kann eine neue Eingabemethode importieren), und die Eingabemethode ist auch Open Source (jeder kann die Software pflegen). So kann Hanxin einen umfassenden Schutz des Sicherheitsgefühls der Benutzer erreichen.
 
 ---
-[ عنوان الموقع الرسمي 1 https://hanxinma.gitee.io/hanxin ] ) https://hanxinma.gitee.io/hanxin/ زيارة الموقع الرسمي هان شين كود
+[ عنوان الموقع الرسمي 1 https://hanxinma.gitee.io/] ) https://hanxinma.gitee.io/ زيارة الموقع الرسمي هان شين كود
 [ عنوان الموقع الرسمي 2 https://hanxinma.github.io/ ] ) https://hanxinma.github.io/ زيارة الموقع الرسمي Hanxinma ، Hanxin الموقع الرسمي ، shuangpin مساعدة رمز الموقع الرسمي
 الصينية القلب سريع طريقة الإدخال يوفر الوظائف التالية
 . . . ـ
@@ -248,7 +249,7 @@ Kurz gesagt, die Hanxin-Codetabelle ist Open Source (jeder kann eine neue Eingab
 ي = ، ج = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 طريقة إدخال عنوان تحميل البرنامج
 القلب الصيني سريع طريقة إدخال برامج تحميل العنوان ) https://gitee.com/hanxinma/ruanjian/releases/ و
-النسخ الاحتياطي تحميل العنوان ) https://hanxinma.gitee.io/hanxin/ و
+النسخ الاحتياطي تحميل العنوان ) https://hanxinma.gitee.io/ و
 النسخ الاحتياطي تحميل العنوان ) https://github.com/hanxinma/hanxinma و
 sogou ف ف مايكروسوفت بايدو وغيرها من أساليب الإدخال ، يمكنك استيراد رمز الجدول يمكن استخدامها مباشرة ، تحميل أعلاه ، ( هان شين رمز * * * * * * * * * * * * * * مجموعة حزمة ) ، يمكن استخدامها بعد الاستيراد .
 . . . ـ
@@ -289,10 +290,11 @@ Chuanglian الستائر رمز بسيط أسلوب الكتابة CLG ، ز ه
 هان القلب هل موقع على شبكة الإنترنت ، عقود أو حتى مئات السنين ، لا أحد يحافظ على الموقع و الموارد لا تزال . حتى تتمكن من العثور على رمز الصينية القلب إلى الأبد . لا تقلق بشأن تغيير جهاز الكمبيوتر الخاص بك ، لا يمكن العثور على رمز الصينية أو البرمجيات .
 هان شين لديه موقع على شبكة الإنترنت ، ثم لا تحتاج إلى تجديد ، لذلك لا تقلق لا أحد تجديد الموقع . ثم إذا كانت الشركة الأم لهذا الموقع لم يعد موجودا . هان القلب أيضا النسخ الاحتياطي محطة واحدة ، يمكن استخدامها . ثم إذا كان النسخ الاحتياطي 1 محطة الشركة الرئيسية لم تعد موجودة . هناك اثنين من النسخ الاحتياطي يمكن استخدامها ، وهذا هو موقع تينسنت . إذا كان هذا الموقع لا يزال غير متوفر ، ثم هناك 3 محطات احتياطية يمكن استخدامها . النسخ الاحتياطي 3 محطات هي أكبر مستودع رمز مبرمج في العالم . لن تسقط بسهولة . أين تجد هذه الموارد ، فمن المستحسن استخدام bing.com البحث أسهل للبحث .
 البرنامج يستخدم برمجيات المصدر المفتوح ، الأساسية دائما شخص ما في التحديث . ثم هان شين كود المصدر مفتوح ، أي شخص يمكن أن تضاف إلى برمجيات المصدر المفتوح لتوليد هان شين طريقة الإدخال . هان شين وأخيرا سوف تجعل الصيانة الشخصية في البرنامج التعليمي . حتى يمكن للجميع بسهولة الحفاظ على التحديثات .
+
 وباختصار ، هان شين كود الجدول مفتوح المصدر ( أي شخص يمكن أن تستورد طريقة الإدخال الجديدة ) ، طريقة الإدخال هو أيضا استخدام المصدر المفتوح طريقة الإدخال ( أي شخص يمكن أن تحافظ على البرمجيات ) . حتى هان شين يمكن القيام به لحماية المستخدمين من جميع النواحي الشعور بالأمن .
 ---
 
-[홈페이지 주소 1https://hanxinma.gitee.io/hanxin](https://hanxinma.gitee.io/hanxin/) 한심코드 홈페이지 방문, 한심쾌타 홈페이지
+[홈페이지 주소 1https://hanxinma.gitee.io/hanxin](https://hanxinma.gitee.io/) 한심코드 홈페이지 방문, 한심쾌타 홈페이지
 [홈페이지 주소 2https://hanxinma.github.io/](https://hanxinma.github.io/) hanxinma official website, 한심 홈페이지, 더블 콤보 보조코드 홈페이지 방문
 한심 쾌타 입력법은 다음과 같은 기능을 제공한다
 ---
@@ -301,7 +303,7 @@ Chuanglian الستائر رمز بسيط أسلوب الكتابة CLG ، ز ه
 j=钅, c=촌한자의 편방부수의 독음 이니셜
 # # # # 빨리 입력기 소프트웨어 다운로드 주소를 입력하십시오.
 [한심쾌타 입력기 소프트웨어 다운로드 1 주소] (https://gitee.com/hanxinma/ruanjian/releases/)
-[백업 다운로드 2 주소] (https://hanxinma.gitee.io/hanxin/)
+[백업 다운로드 2 주소] (https://hanxinma.gitee.io/)
 [백업 다운로드 3 주소] (https://github.com/hanxinma/hanxinma)
 써우거우 QQ 마이크로소프트 바이두 등의 입력법은 코드표를 직접 가져오면 사용할 수 있으며, 위쪽을 다운로드하여 (한심코드 *** 집합팩) 가져오면 사용할 수 있다.
 ---
@@ -345,7 +347,7 @@ chuanglian 커튼 콤보 idlm, i=ch, d=uang, l=l, m=ian.이 기능은 이중 맞
 결론적으로, 한심 코드 테이블 오픈 소스 (누구나 새로운 입력기를 가져와 사용할 수 있음), 입력기도 오픈 소스 입력기 (소프트웨어를 유지 관리할 수 있음) 를 사용한다.그래서 한심은 사용자의 안정감을 전방위적으로 보호할 수 있다.
 ---
 
-[adresse du site officiel 1 https://hanxinma.gitee.io/hanxin ] ( https://hanxinma.gitee.io/hanxin/ ) visitez le site officiel du Code de Han, le site officiel du Code de Han
+[adresse du site officiel 1 https://hanxinma.gitee.io/] ( https://hanxinma.gitee.io/ ) visitez le site officiel du Code de Han, le site officiel du Code de Han
 [adresse du site officiel 2 https://hanxinma.github.io/ ] ( https://hanxinma.github.io/ Visitez hanxinma official website, hanxinma official website, hanxinma official website, hanxinma official website
 La méthode d'entrée hanchu Quick offre les fonctions suivantes
 - - -
@@ -354,7 +356,7 @@ Dejc dejcc peut taper ce mot directement sans tourner la page.
 J =, c = initiale de lecture de la partie latérale du caractère chinois Pouch
 ; \ \ \ \ \ \ \ \ \ \ \ 
 [téléchargement de logiciel de méthode d'entrée hanchu Kombat 1 adresse] ( https://gitee.com/hanxinma/ruanjian/releases/ ) et
-[sauvegarde télécharger 2 adresse] ( https://hanxinma.gitee.io/hanxin/ ) et
+[sauvegarde télécharger 2 adresse] ( https://hanxinma.gitee.io/ ) et
 [sauvegarde télécharger 3 Adresses] ( https://github.com/hanxinma/hanxinma ) et
 Houhou qq Microsoft Baidu et d'autres méthodes d'entrée, vous pouvez importer directement la table de code peut être utilisé, télécharger ci - dessus, (Pack de collecte de code de coeur * * *), après l'importation peut être utilisé.
 - - -
@@ -397,7 +399,7 @@ Han Heart a un site Web, puis ne renouvelle pas, alors ne vous inquiétez pas qu
 Le logiciel utilise un logiciel open source, fondamentalement quelqu'un est toujours mis à jour. Ensuite, le code source est également public et n'importe qui peut l'ajouter à un logiciel open source pour générer des méthodes d'entrée Han. Hanjin finira par faire de la maintenance personnelle un tutoriel. Ainsi, tout le monde peut facilement maintenir les mises à jour.
 En résumé, le tableau de codes hanchu est Open Source (n'importe qui peut importer de nouvelles méthodes d'entrée à utiliser), et la méthode d'entrée est également open source (n'importe qui peut maintenir le logiciel). Ainsi, hanxin peut faire toute la gamme pour protéger le sentiment de sécurité de l'utilisateur.
 ---
-[Alamat website resmi 1] https://hanxinma.gitee.io/hanxin ]; https://hanxinma.gitee.io/hanxin/ \65289Kunjungi situs resmi Kode Hanxin, dan klik pada situs resmi dengan cepat
+[Alamat website resmi 1] https://hanxinma.gitee.io/]; https://hanxinma.gitee.io/ \65289Kunjungi situs resmi Kode Hanxin, dan klik pada situs resmi dengan cepat
 [Alamat website resmi 2] https://hanxinma.github.io/ ]; https://hanxinma.github.io/ Kunjungi situs resmi Hanxinma, situs resmi Hanxin, dan situs resmi kode bantuan Shuangpin
 Metode masukan Han Xin Kuai Da menyediakan fungsi berikut
 ---
@@ -406,7 +408,7 @@ Anda dapat mengetik karakter ini langsung tanpa membalik halaman untuk memilih k
 J="", c=huruf awal dari radikal karakter Cina inci
 ####Fast input method software download address
 [Hanxin Quick Input Method Software Download 1 Alamat]（ https://gitee.com/hanxinma/ruanjian/releases/ 65289;
-[Backup Download 2 Alamat]; https://hanxinma.gitee.io/hanxin/ 65289;
+[Backup Download 2 Alamat]; https://hanxinma.gitee.io/ 65289;
 [Backup Download 3 Alamat]; https://github.com/hanxinma/hanxinma 65289;
 Sogou QQ, Microsoft, Baidu, dan metode input lainnya dapat diimpor secara langsung ke tabel kode yang digunakan. Turunkan yang di atas (Hanxin Code * * * Collection Package) dan impor untuk digunakan.
 ---
@@ -449,7 +451,7 @@ Hanxin memiliki website dan tidak perlu memperbaruinya, jadi jangan khawatir jik
 Perangkat lunak menggunakan perangkat lunak sumber terbuka, dan pada dasarnya selalu ada orang yang memperbaharuinya. Lalu, kode sumber kode Hanxin juga tersedia publik, dan siapapun dapat menambahkannya ke perangkat lunak sumber terbuka untuk menghasilkan metode input Hanxin. Han Xin akhirnya akan mengubah pemeliharaan pribadi menjadi tutorial. Jadi semua orang mudah mempertahankan update.
 Secara singkat, tabel kode Hanxin adalah sumber terbuka (siapapun dapat mengimpor metode input baru untuk digunakan), dan metode input juga sumber terbuka (siapapun dapat mempertahankan perangkat lunak). Jadi Hanxin bisa mencapai perlindungan komprensif dari perasaan keamanan pengguna.
 ---
-[Địa chỉ website 1] https://hanxinma.gitee.io/hanxin ]( https://hanxinma.gitee.io/hanxin/ WEB) Truy cập trang web chính thức của Hán Tâm, Hán Tâm mau đánh trang web chính thức
+[Địa chỉ website 1] https://hanxinma.gitee.io/]( https://hanxinma.gitee.io/ WEB) Truy cập trang web chính thức của Hán Tâm, Hán Tâm mau đánh trang web chính thức
 [Địa chỉ website 2] https://hanxinma.github.io/ ]( https://hanxinma.github.io/ Truy cập Hanxinma Official Website, Hanxinma Official Website
 Phương pháp gõ Hán Tâm nhanh cung cấp các chức năng sau:
 ---
@@ -458,7 +460,7 @@ Dej dejc dejcc có thể gõ trực tiếp từ này mà không cần lật tran
 j=yttri, c=chữ cái đầu tiên của chữ Hán
 ####################################################################################################################################################################
 REFERENCES [Tên bảng tham chiếu] ( https://gitee.com/hanxinma/ruanjian/releases/ )
-REFERENCES [Tên bảng tham chiếu] ( https://hanxinma.gitee.io/hanxin/ )
+REFERENCES [Tên bảng tham chiếu] ( https://hanxinma.gitee.io/ )
 REFERENCES [Tên bảng tham chiếu] ( https://github.com/hanxinma/hanxinma )
 Tìm kiếm QQ, Microsoft, Baidu, v. v., có thể trực tiếp nhập vào bảng số là có thể sử dụng, tải xuống phía trên, (gói tập hợp mã Hán Tâm), sau khi nhập vào là có thể sử dụng.
 ---
@@ -501,7 +503,7 @@ Hán Tâm có một trang web, sau đó không cần tiếp tục phí, cho nên
 Phần mềm sử dụng phần mềm nguồn mở, cơ bản luôn có người cập nhật. Sau đó mã nguồn Hán Tâm cũng được công khai, bất cứ ai cũng có thể thêm vào phần mềm nguồn mở để tạo ra phương pháp nhập Hán Tâm. Hán Tâm cuối cùng còn có thể đem bảo vệ cá nhân làm thành giáo trình. Ai cũng có thể update dễ dàng.
 Tóm lại, bảng mã Hán Tâm là mã nguồn mở (bất cứ ai cũng có thể nhập khẩu phương pháp nhập khẩu mới để sử dụng), phương pháp nhập khẩu cũng là mã nguồn mở (bất cứ ai cũng có thể duy trì phần mềm). Cho nên Hán Tâm có thể bảo vệ toàn diện cảm giác an toàn của người dùng.
 ---
-[অফিসেল ৱেবছাইট ঠিকনা ১] https://hanxinma.gitee.io/hanxin ]( https://hanxinma.gitee.io/hanxin/ ) হানক্সিন ক'ডৰ অধিকাৰিক ৱেবছাইট ভ্ৰমণ কৰক, আৰু অধিকাৰিক ৱেবছাইটত দ্ৰুত ক্লিক কৰক
+[অফিসেল ৱেবছাইট ঠিকনা ১] https://hanxinma.gitee.io/]( https://hanxinma.gitee.io/ ) হানক্সিন ক'ডৰ অধিকাৰিক ৱেবছাইট ভ্ৰমণ কৰক, আৰু অধিকাৰিক ৱেবছাইটত দ্ৰুত ক্লিক কৰক
 [অফিসেল ৱেবছাইট ঠিকনা ২] https://hanxinma.github.io/ ]( https://hanxinma.github.io/ ) Hanxinma official website, Hanxin official website, and Shuangpin auxiliary code official website
 Han Xin Kuai Da ইনপুট পদ্ধতি নিম্নলিখিত ফলনসমূহ প্ৰদান কৰে
 ---
@@ -510,7 +512,7 @@ You can type this character directly without flipping pages to select a characte
 J="", c=the initial letter of the radical of an inch Chinese character
 ####Quick input method software download address
 [Hanxin Quick Input Method Software Download 1 Address] https://gitee.com/hanxinma/ruanjian/releases/ )
-[বেকআপ ডাউনলোড ২ ঠিকনা]( https://hanxinma.gitee.io/hanxin/ )
+[বেকআপ ডাউনলোড ২ ঠিকনা]( https://hanxinma.gitee.io/ )
 [বেকআপ ডাউনলোড ৩ ঠিকনা] https://github.com/hanxinma/hanxinma )
 Sogou QQ, Microsoft, Baidu, আৰু অন্য ইনপুট পদ্ধতিসমূহ ব্যৱহাৰ কৰিব লগিয়া ক'ড টেবুলত প্ৰত্যক্ষভাৱে ইমপোৰ্ট কৰা যাব। উপৰত (Hanxin Code * * * Collection Package) ডাউন
 ---
@@ -554,7 +556,7 @@ The software utilizes open-source software, and there are basically always peopl
 
 In short, the Hanxin code table is open source (anyone can import a new input method to use), and the input method is also open source (anyone can maintain the software). হানক্সিনে ব্যৱহাৰকাৰীসমূহৰ সুৰক্ষাৰ বাবে বিশেষ সুৰক্ষা প্ৰাপ্ত কৰিব পাৰে।
 ---
-[आधिकारिक वेबसाइट पता 1] https://hanxinma.gitee.io/hanxin ]( https://hanxinma.gitee.io/hanxin/ ) हैंक्सिन कोड के आधिकारिक वेबसाइट को भेजें, और आधिकारिक वेबसाइट पर जल्दी क्लिक करें
+[आधिकारिक वेबसाइट पता 1] https://hanxinma.gitee.io/]( https://hanxinma.gitee.io/ ) हैंक्सिन कोड के आधिकारिक वेबसाइट को भेजें, और आधिकारिक वेबसाइट पर जल्दी क्लिक करें
 [आधिकारिक वेबसाइट पता 2] https://hanxinma.github.io/ ]( https://hanxinma.github.io/ हांक्सिन्मा आधिकारिक वेबसाइट, हांक्सिन आधिकारिक वेबसाइट, तथा शुएंग्पिन सहायक कोड आधिकारिक वेबसाइ
 हान क्यूआई डा इनपुट पद्धति निम्न फंक्शन्स प्रदान करता है
 ---
@@ -563,7 +565,7 @@ In short, the Hanxin code table is open source (anyone can import a new input me
 J="", c=the initial letter of the radical of an inch Chinese character
 ### Quick input method software download address
 [हैंक्सिंग तुरंत इनपुट पद्धति सॉफ्टवेयर डाउनलोड 1 पता] https://gitee.com/hanxinma/ruanjian/releases/ )
-[Backup Download 2 Address]（ https://hanxinma.gitee.io/hanxin/ )
+[Backup Download 2 Address]（ https://hanxinma.gitee.io/ )
 [बैकअप डाउनलोड 3 पता]( https://github.com/hanxinma/hanxinma )
 सोगो क्यू, माइक्रोसाफ्ट, बेडू तथा अन्य इनपुट पद्धतियों को इस्तेमाल करने के लिए कोड तालिका में सीधे आयात कर सकते हैं. ऊपर (हैंक्सिंग कोड * *
 ---
@@ -606,7 +608,7 @@ Han Xin is more like a family member, understanding what you think and protectin
 सॉफ्टवेयर खुला सोर्स सॉफ्टवेयर उपयोग करता है, और मूलभूत रूप से लोग हमेशा उसे अद्यतन करते हैं. फिर, हैंक्सिन कोड का स्रोत कोड सार्वजनिक रूप में भी उपलब्ध है, और कोई भी उसे खुला स्रोत सॉफ्टवेयर में जोड़ सकता है जो ह हान जीन अंत में व्यक्तिगत संरक्षण को एक शिक्षा में बदलेगा. तो हर एक आसान से अद्यतनों को पालन कर सकता है.
 छोटे में, हैंक्सिन कोड टेबल खुला स्रोत है (कोई भी इस्तेमाल के लिए नया इनपुट पद्धति आयात कर सकता है), और इनपुट पद्धति खुला स तो हैंक्सिन प्रयोक्ताओं के सुरक्षा की सुरक्षा के विशेषता सुरक्षा का प्राप्त कर सकता है.
 ---
-[Официальный адрес 1 https://hanxinma.gitee.io/hanxin ] ( https://hanxinma.gitee.io/hanxin/ Посетите официальный сайт Hanxin, Hanxin быстро звонить официальный сайт
+[Официальный адрес 1 https://hanxinma.gitee.io/] ( https://hanxinma.gitee.io/ Посетите официальный сайт Hanxin, Hanxin быстро звонить официальный сайт
 [Официальный адрес 2 https://hanxinma.github.io/ ] ( https://hanxinma.github.io/ Посетите официальный сайт Hanxinma, официальный сайт Hanxinma
 Быстрый вход обеспечивает следующие функции.
 - Да.
@@ -615,7 +617,7 @@ Han Xin is more like a family member, understanding what you think and protectin
 j = 钅钅钅钅钅钅钅钅钅钅钅钅钅钅钅钅
 # # # # Быстрый вход Программное обеспечение Загрузить адрес
 [Скачать программное обеспечение Hanxin для быстрого ввода 1 адрес] https://gitee.com/hanxinma/ruanjian/releases/ )
-[Скачать 2 адреса] https://hanxinma.gitee.io/hanxin/ )
+[Скачать 2 адреса] https://hanxinma.gitee.io/ )
 [Скачать 3 адреса] https://github.com/hanxinma/hanxinma )
 Поиск собак QQ Microsoft Baidu и другие методы ввода, вы можете напрямую импортировать таблицу кода для использования, скачать выше, (Hanxin код * * * коллекционный пакет), после импорта вы можете использовать.
 - Да.
@@ -659,7 +661,7 @@ Chuanglian занавески CLG, g - это инициалы гарнитур�
 
 Короче говоря, таблица кода Hanxin с открытым исходным кодом (любой может импортировать новый метод ввода для использования), метод ввода также использует метод ввода с открытым исходным кодом (любой может поддерживать программное обеспечение). Таким образом, Hanxin может полностью защитить чувство безопасности пользователя.
 ---
-[ที่อยู่เว็บไซต์อย่างเป็นทางการ 1 https://hanxinma.gitee.io/hanxin ]( https://hanxinma.gitee.io/hanxin/ ) เยี่ยมชมเว็บไซต์อย่างเป็นทางการของ Hanxin Code เว็บไซต์อย่างเป็นทางการของ Hanxin Kuaida
+[ที่อยู่เว็บไซต์อย่างเป็นทางการ 1 https://hanxinma.gitee.io/]( https://hanxinma.gitee.io/ ) เยี่ยมชมเว็บไซต์อย่างเป็นทางการของ Hanxin Code เว็บไซต์อย่างเป็นทางการของ Hanxin Kuaida
 [ที่อยู่เว็บไซต์อย่างเป็นทางการ 2 https://hanxinma.github.io/ ]( https://hanxinma.github.io/ ) เยี่ยมชมเว็บไซต์ hanxinma official เว็บไซต์อย่างเป็นทางการของ hanxin เว็บไซต์อย่างเป็นทางการของรหัสเสริมการสะกดคู่
 
 วิธีการป้อนข้อมูล Hanxin Kombat มีคุณสมบัติดังต่อไปนี้
@@ -669,7 +671,7 @@ Chuanglian занавески CLG, g - это инициалы гарнитур�
 j = พอโลเนียม, c = ตัวอักษรย่อของการออกเสียงในส่วนข้างของตัวอักษรจีนนิ้ว
 \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \# \#
 [ซอฟต์แวร์ป้อนข้อมูล Hanxin Kombat ดาวน์โหลด 1 ที่อยู่] ( https://gitee.com/hanxinma/ruanjian/releases/ )
-[สำรองดาวน์โหลด 2 ที่อยู่] ( https://hanxinma.gitee.io/hanxin/ )
+[สำรองดาวน์โหลด 2 ที่อยู่] ( https://hanxinma.gitee.io/ )
 [สำรองดาวน์โหลด 3 ที่อยู่] ( https://github.com/hanxinma/hanxinma )
 Sogou QQ Microsoft Baidu และวิธีการป้อนข้อมูลอื่น ๆ สามารถนำเข้าโดยตรงในตารางรหัสก็สามารถใช้งานได้ดาวน์โหลดข้างต้น (รหัส Hanxin*** แพ็คคอลเลกชัน) เมื่อนำเข้าแล้วสามารถใช้งานได้
 ---
