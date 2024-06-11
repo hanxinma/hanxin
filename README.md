@@ -1,11 +1,11 @@
 <<<<<<< HEAD
 # 拼音或双拼打字词都不用选打字法介绍
+  [官网地址 https://hanxinma.gitlab.io/](https://hanxinma.gitlab.io/)访问,汉心官网,双拼辅助码官网
 
- [官网地址 https://hanxinma.gitee.io/](https://hanxinma.gitee.io/)访问 汉心码官网,汉心快打官网
 
   [官网镜像1站 https://hanxinma.github.io/](https://hanxinma.github.io/)访问hanxinma official website,汉心官网,双拼辅助码官网
 
-  [官网镜像2站 https://hanxinma.gitlab.io/](https://hanxinma.gitlab.io/)访问,汉心官网,双拼辅助码官网
+
 
 
 #### 汉心码的主要作用就是拼音或双拼打字不用选，打词也可以不用选。并且基本不用学。
